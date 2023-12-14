@@ -1,4 +1,4 @@
-import sublinks from "./src/data.js";
+import sublinks from "./data.js";
 
 const nav = document.querySelector(".nav");
 const sidebarWrapper = document.querySelector(".sidebar-wrapper");
